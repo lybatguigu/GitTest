@@ -7,7 +7,11 @@ public class GitTest {
 
 		System.out.println("bbbbbbb");
 		
+<<<<<<< HEAD
 		System.out.println("dddddddddddd");
+=======
+		System.out.println("ccccccccccccc");
+>>>>>>> branch 'master' of https://github.com/lybatguigu/GitTest.git
 	}
 
 }
